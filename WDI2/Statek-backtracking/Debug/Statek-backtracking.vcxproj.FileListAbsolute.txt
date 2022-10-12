@@ -1,0 +1,2 @@
+C:\Users\Adam\Desktop\WDI2\Statek-backtracking\Debug\Statek-backtracking.exe
+C:\Users\Adam\Desktop\WDI2\Statek-backtracking\Debug\Statek-backtracking.pdb

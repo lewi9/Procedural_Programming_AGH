@@ -1,0 +1,2 @@
+C:\Users\Adam\Desktop\WDI2\Printf_Lewinski\Debug\Printf_Lewinski.exe
+C:\Users\Adam\Desktop\WDI2\Printf_Lewinski\Debug\Printf_Lewinski.pdb
